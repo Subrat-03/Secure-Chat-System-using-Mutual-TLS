@@ -114,7 +114,7 @@ make
 
 A short demonstration video of the system in action is included in the repository:
 
-[![Watch the video](thumb.png)](sasken.mp4)
+[![Watch the video](Screenshot.png)](code_demo.mp4)
 
 
 ### Start the Server
@@ -150,3 +150,4 @@ Below is a demonstration of a secure session between a client and the server:
 * Only CA-signed clients are permitted to connect, preventing unauthorized access.
 
 ---
+
