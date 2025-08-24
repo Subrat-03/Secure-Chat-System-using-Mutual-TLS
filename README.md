@@ -150,18 +150,3 @@ Below is a demonstration of a secure session between a client and the server:
 * Only CA-signed clients are permitted to connect, preventing unauthorized access.
 
 ---
-
-## Future Work
-
-* Windows compatibility (OpenSSL + Winsock).
-* WebSocket bridge using Boost.Beast for UI integration.
-* Frontend UI (React-based) for improved user experience.
-* Containerized deployment (Docker).
-* Advanced authentication and user role management.
-
----
-
-## Status
-
-The terminal-based mTLS secure chat system is **fully functional**.
-**Frontend UI integration is under active development.**
