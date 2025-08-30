@@ -1,6 +1,4 @@
 
-
-
 # Secure Chat System with Mutual TLS (mTLS)
 
 A secure, terminal-based chat application developed in **C++** using **mutual TLS (mTLS)** with OpenSSL.  
@@ -31,13 +29,7 @@ This project demonstrates a production-grade security mechanism where both clien
 ### Architecture Diagram
 
 ![Architecture Diagram](./ChatGPT%20Image%20Jul%2024%2C%202025%2C%2004_11_16%20PM.png)
- 
 
-```markdown
-![Architecture Diagram](docs/architecture.png)
-````
-
----
 
 ## Technology Stack
 
