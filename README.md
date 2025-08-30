@@ -83,7 +83,7 @@ secure-chat-mtls/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Anshuman773/Secure-Chat-System-using-mTLS.git
+git clone https://github.com/Subrat-03/Secure-Chat-System-using-Mutual-TLS.git
 cd secure-chat-mtls
 ```
 
@@ -129,19 +129,6 @@ A short demonstration video of the system in action is included in the repositor
 ./client ../certs/client.crt ../certs/client.key ../certs/ca.crt
 ```
 
----
-
-## Example Session (Terminal Demo)
-
-Below is a demonstration of a secure session between a client and the server:
-
-```markdown
-![Terminal Demo](docs/demo.png)<img width="1520" height="279" alt="Screenshot from 2025-07-13 20-19-30" src="https://github.com/user-attachments/assets/2085ee40-0bba-4d00-905c-fdbe265f93c1" />
-
-```
-
----
-
 ## Security Considerations
 
 * Both server and client must present valid certificates signed by the same Certificate Authority (CA).
@@ -150,4 +137,5 @@ Below is a demonstration of a secure session between a client and the server:
 * Only CA-signed clients are permitted to connect, preventing unauthorized access.
 
 ---
+
 
